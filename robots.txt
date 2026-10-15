@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pmaxx2023.github.io/ai-for-trades/sitemap.xml

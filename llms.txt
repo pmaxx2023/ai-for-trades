@@ -1,0 +1,48 @@
+# TradeAI Tools
+
+> Directory of AI tools for contractors and trades (estimating, takeoff, AI answering, field service). Prices are taken from vendor pricing pages, checked 2026-10-15; unverified fields are marked.
+
+## Guides
+- [Best AI takeoff software for contractors (2026)](https://pmaxx2023.github.io/ai-for-trades/best/best-ai-takeoff-software.html): Automatic quantity takeoff from plans. Reddit estimators consistently say these still need human review: treat the AI pass as a draft.
+- [Best AI estimating software for remodelers](https://pmaxx2023.github.io/ai-for-trades/best/best-ai-estimating-software-remodelers.html): Tools that turn a site walk into a priced estimate for kitchens, baths and remodels.
+- [Best AI answering service for contractors](https://pmaxx2023.github.io/ai-for-trades/best/best-ai-answering-service-contractors.html): Missed calls are missed jobs. These AI receptionists answer, qualify and book 24/7.
+- [Best AI tools for HVAC, plumbing and electrical companies](https://pmaxx2023.github.io/ai-for-trades/best/best-ai-for-hvac-plumbing-electrical.html): Field service platforms and AI call handling for residential service trades.
+- [Best AI tools for roofers](https://pmaxx2023.github.io/ai-for-trades/best/best-ai-tools-for-roofers.html): Measurement from photos/aerials, proposals, and lead capture for roofing contractors.
+- [Best cheap AI tools for solo contractors and handymen](https://pmaxx2023.github.io/ai-for-trades/best/best-ai-for-solo-contractors.html): Low-cost tools for a one-truck business: quotes, invoices, calls and reviews.
+- [ChatGPT vs Claude for construction estimating](https://pmaxx2023.github.io/ai-for-trades/best/chatgpt-vs-claude-for-estimating.html): What general assistants are actually good for in estimating: reading specs, scope gap checks, vendor quote comparison, RFIs. Not final line-item pricing.
+- [Jobber vs Housecall Pro](https://pmaxx2023.github.io/ai-for-trades/best/jobber-vs-housecall-pro.html): The two most common field service platforms for small home service businesses, compared on published pricing.
+- [Togal vs STACK vs PlanSwift](https://pmaxx2023.github.io/ai-for-trades/best/togal-vs-stack-vs-planswift.html): Three takeoff options compared on published pricing and approach.
+- [Best AI tools for contractor reviews and marketing](https://pmaxx2023.github.io/ai-for-trades/best/best-ai-for-contractor-reviews-marketing.html): Get more Google reviews and respond to leads faster.
+
+## Tools
+- [Togal.AI](https://pmaxx2023.github.io/ai-for-trades/tools/togal.html): AI takeoff; best for Commercial estimators. Pricing: Growth plan $299/mo per user, billed yearly.
+- [Buildxact](https://pmaxx2023.github.io/ai-for-trades/tools/buildxact.html): Estimating & quoting; best for Residential builders & remodelers. Pricing: Free AI Estimating tier ($0); Foundation $199/mo ($169/mo annual); Pro $399/mo ($339/mo annual). Blu add-ons $99-$149/mo.
+- [Handoff AI](https://pmaxx2023.github.io/ai-for-trades/tools/handoff.html): Estimating & quoting; best for Remodelers. Pricing: Flex $149/mo ($119/mo annual); Pro $299/mo ($239 annual); Scale $899/mo ($719 annual).
+- [STACK](https://pmaxx2023.github.io/ai-for-trades/tools/stack.html): AI takeoff; best for Subs & GCs wanting cloud takeoff. Pricing: Takeoff/estimating plans 'as low as' $299 per user/mo; field plans from $49 per user/mo.
+- [Clear Estimates](https://pmaxx2023.github.io/ai-for-trades/tools/clearestimates.html): Estimating & quoting; best for Small remodelers. Pricing: Standard $79/mo ($59/mo annual); Pro $119/mo; Franchise from $249/mo.
+- [PlanSwift](https://pmaxx2023.github.io/ai-for-trades/tools/planswift.html): AI takeoff; best for Desktop/Excel-heavy estimators. Pricing: Essential $2,000/yr per seat; Core $3,000/yr per seat.
+- [Kreo](https://pmaxx2023.github.io/ai-for-trades/tools/kreo.html): AI takeoff; best for PDF/CAD/BIM takeoff. Pricing: $100/user/mo (no AI), $175/user/mo (AI takeoff), $250/user/mo top tier, all billed annually.
+- [Bluebeam](https://pmaxx2023.github.io/ai-for-trades/tools/bluebeam.html): AI takeoff; best for PDF markup & measurement. Pricing: Per user, billed annually: $260, $330, $440, $590 tiers.
+- [Beam AI](https://pmaxx2023.github.io/ai-for-trades/tools/beam.html): AI takeoff; best for High-volume trade subs & suppliers. Pricing: Not published on fetched page (unverified). (unverified)
+- [Quotr.ai](https://pmaxx2023.github.io/ai-for-trades/tools/quotr.html): AI takeoff; best for Contractors and developers. Pricing: Not published on fetched page (unverified). (unverified)
+- [Jobber](https://pmaxx2023.github.io/ai-for-trades/tools/jobber.html): Field service software; best for Home service businesses, solo to 15+. Pricing: Plans from $29 to $529/mo billed annually (per Jobber's pricing page); extra users $29/mo.
+- [Housecall Pro](https://pmaxx2023.github.io/ai-for-trades/tools/housecallpro.html): Field service software; best for Residential service pros. Pricing: From $59/mo billed annually.
+- [ServiceTitan](https://pmaxx2023.github.io/ai-for-trades/tools/servicetitan.html): Field service software; best for Larger HVAC, plumbing, electrical shops. Pricing: Quote-based; no public price on fetched page (unverified). (unverified)
+- [ServiceM8](https://pmaxx2023.github.io/ai-for-trades/tools/servicem8.html): Field service software; best for Small trade businesses on iPhone. Pricing: Free (1 user, 30 jobs/mo); Starter $29/mo; Growing $79/mo; Premium $149/mo; Premium Plus $349/mo.
+- [Workiz](https://pmaxx2023.github.io/ai-for-trades/tools/workiz.html): Field service software; best for Field service teams. Pricing: Plan prices not readable on fetched page (unverified). (unverified)
+- [FieldPulse](https://pmaxx2023.github.io/ai-for-trades/tools/fieldpulse.html): Field service software; best for Growing trade companies. Pricing: Custom quote (per fetched pricing page). (unverified)
+- [Markate](https://pmaxx2023.github.io/ai-for-trades/tools/markate.html): Field service software; best for Solo operators. Pricing: Owner Operator $49.95/mo ($45.95 yearly); +$5/employee/mo; Kate-AI Receptionist $1/call.
+- [Joist](https://pmaxx2023.github.io/ai-for-trades/tools/joist.html): Estimating & quoting; best for Solo contractors: estimates & invoices. Pricing: Tiers from $12/mo up to $100/mo billed monthly (lower with annual billing).
+- [Avoca AI](https://pmaxx2023.github.io/ai-for-trades/tools/avoca.html): AI phone answering; best for Mid/large home service companies. Pricing: Not published (sales-led; unverified). (unverified)
+- [Goodcall](https://pmaxx2023.github.io/ai-for-trades/tools/goodcall.html): AI phone answering; best for Solo operators & small shops. Pricing: Starter $79/mo; Growth $129/mo; Scale $299/mo.
+- [Rosie](https://pmaxx2023.github.io/ai-for-trades/tools/rosie.html): AI phone answering; best for Solo owners & small businesses. Pricing: Professional $49/mo; Scale $149/mo; Growth $299/mo.
+- [Smith.ai AI Receptionist](https://pmaxx2023.github.io/ai-for-trades/tools/smithai.html): AI phone answering; best for Businesses wanting AI + live backup. Pricing: Free (25 calls/mo); Pro $150/mo (~$2/call); Enterprise from $500/mo.
+- [Sameday AI](https://pmaxx2023.github.io/ai-for-trades/tools/sameday.html): AI phone answering; best for Home service contractors. Pricing: Starts at $449/mo; higher plan starts at $789/mo.
+- [CompanyCam](https://pmaxx2023.github.io/ai-for-trades/tools/companycam.html): Photos & measurement; best for Job-site photo documentation. Pricing: Base plan prices not readable on fetched page; additional users $29 each (billed annually). Base price unverified. (unverified)
+- [Hover](https://pmaxx2023.github.io/ai-for-trades/tools/hover.html): Photos & measurement; best for Exterior, roofing & siding measurement. Pricing: Pay per project, e.g. basic roof $39-$79 depending on plan; memberships $999/yr and $2,999/yr.
+- [Roofr](https://pmaxx2023.github.io/ai-for-trades/tools/roofr.html): Photos & measurement; best for Roofers. Pricing: Free plan ($19 measurement reports); paid plans $109/mo and $249/mo monthly.
+- [NiceJob](https://pmaxx2023.github.io/ai-for-trades/tools/nicejob.html): Reviews & marketing; best for Reviews & repeat customers. Pricing: Starter $75/mo; Pro $125/mo; Sites add-on $99/mo + $199 setup.
+- [Podium](https://pmaxx2023.github.io/ai-for-trades/tools/podium.html): Reviews & marketing; best for Texting, reviews and AI lead response. Pricing: Not published on fetched page (unverified). (unverified)
+- [Procore](https://pmaxx2023.github.io/ai-for-trades/tools/procore.html): Project management; best for GCs and commercial builders. Pricing: Quote-based, priced by construction volume (unverified). (unverified)
+- [Claude](https://pmaxx2023.github.io/ai-for-trades/tools/claude.html): General AI assistants; best for Reading specs, scope checks, RFIs, emails. Pricing: Free; Pro $20/mo ($17/mo annual); Max from $100/mo.
+- [ChatGPT](https://pmaxx2023.github.io/ai-for-trades/tools/chatgpt.html): General AI assistants; best for Writing estimates, emails, marketing. Pricing: Free tier available; paid plan prices render via JavaScript and were not read (unverified). (unverified)
